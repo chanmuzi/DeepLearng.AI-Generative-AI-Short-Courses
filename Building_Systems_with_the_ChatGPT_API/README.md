@@ -28,7 +28,7 @@ Also, try to execute your own codes and check how the model makes output.
 
 ---
 
-이 저장소는 DeepLearning.AI에서 무료로 제공하는 ChatGPT Prompt Engineering for Developers의 강의 자료를 저장하기 위해 생성되었습니다 🤖  
+이 저장소는 DeepLearning.AI에서 무료로 제공하는 Building Systems with the ChatGPT API의 강의 자료를 저장하기 위해 생성되었습니다 🤖  
 (강의 링크는 위를 참고해주세요!)  
 
 강의에서 파일을 직접 다운로드 받을 수 있으면 좋았을텐데 그게 안돼서 직접 내용을 옮겼습니다.✍🏻  
