@@ -1,9 +1,9 @@
 # [DeepLearng.AI-Courses](https://www.deeplearning.ai/short-courses/)
 
-This repository contains lecture materials of Short Courses(4 lectures) of DeepLearning.AI 🤖  
+This repository contains lecture materials of Generative AI Short Courses of DeepLearning.AI 🤖  
 (https://www.deeplearning.ai/short-courses/)
 
-I found that it is not allowed to download ipynb file directly from the lecture environment,  
+I found that it is not allowed to download ipynb file directly from the lecture environment(sometimes due to error),  
 so I wrote all codes and comments by myself ✍🏻
 
 This courses provide us with OpenAI's API, but it is not applicable in other environment or local.  
