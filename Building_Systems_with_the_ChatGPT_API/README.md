@@ -37,7 +37,7 @@ Also, try to execute your own codes and check how the model makes output.
 **그래서 저처럼 각자의 환경에서 테스트를 해보실 분들은 본인의 API를 사용해서 코드를 돌려볼 수 있습니다.**  
 (대신 비용이 청구되겠지만요 🥲)  
 
-만약 'ChatGPT Prompt Engineering for Developers' 강의를 듣지 않으신 분들이라면, 이 강의를 먼저 들어보시길 권장합니다.
+만약 'ChatGPT Prompt Engineering for Developers' 강의를 듣지 않으신 분들이라면, 해당 강의를 먼저 들어보시길 권장합니다.
 
 강의 목차는 다음과 같습니다.
 Contents:
