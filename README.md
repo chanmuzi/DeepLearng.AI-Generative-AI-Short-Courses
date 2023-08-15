@@ -6,7 +6,7 @@ This repository contains lecture materials of Short Courses(4 lectures) of DeepL
 I found that it is not allowed to download ipynb file directly from the lecture environment,  
 so I wrote all codes and comments by myself ✍🏻
 
-This courses provide us with OpenAI's API, but it is not executable in other environment or local.  
+This courses provide us with OpenAI's API, but it is not applicable in other environment or local.  
 Thus, <mark>**if you prefer to test your experiemnts on your local environment, you are forced to use your own API.**</mark>  
 (And OpenAI will charge you for using API 🥲)
 
