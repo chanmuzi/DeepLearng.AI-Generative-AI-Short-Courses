@@ -1,4 +1,4 @@
-# [DeepLearng.AI-Courses](https://www.deeplearning.ai/short-courses/)
+# [DeepLearng.AI-Generative AI Short Courses](https://www.deeplearning.ai/short-courses/)
 
 This repository contains lecture materials of Generative AI Short Courses of DeepLearning.AI 🤖  
 (https://www.deeplearning.ai/short-courses/)
