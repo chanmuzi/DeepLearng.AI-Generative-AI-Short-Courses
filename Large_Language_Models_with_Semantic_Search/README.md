@@ -33,7 +33,8 @@ Also, try to execute your own codes and check how the model makes output.
 **그래서 저처럼 각자의 환경에서 테스트를 해보실 분들은 본인의 API를 사용해서 코드를 돌려볼 수 있습니다.**  
 (대신 비용이 청구되겠지만요 🥲)  
 
-'Cohere'은 상호작용 가능한 채팅 기능을 지원하는 LLM 툴입니다.
+'Cohere'은 상호작용 가능한 채팅 기능을 지원하는 LLM 툴입니다.  
+(텍스트 임베딩 벡터를 시각화하는 기능이 있습니다!)
 
 강의 목차:
 1. Introduction
