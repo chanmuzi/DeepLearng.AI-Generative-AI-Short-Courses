@@ -22,6 +22,7 @@ Course list by August, 2023.
 - [Gradio] [Building Generative AI Applications with Gradio](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Generative_AI_Applications_with_Gradio) 🔥
 - [W&B] [Evaluating and Debugging Generative AI](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Evaluating_and_Debugging_Generative_AI) 🔥🔥
 - [Lamini] [How Diffusion Models Work](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/How_Diffusion_Models_Work) 🔥
+- [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥
 
 ---
 
@@ -45,5 +46,6 @@ Course list by August, 2023.
 - [Gradio] [Building Generative AI Applications with Gradio](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Generative_AI_Applications_with_Gradio) 🔥 : Gradio로 생성형 모델 어플리케이션 만들기
 - [W&B] [Evaluating and Debugging Generative AI](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Evaluating_and_Debugging_Generative_AI) 🔥🔥 : 생성형 모델 평가 및 디버깅
 - [Lamini] [How Diffusion Models Work](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/How_Diffusion_Models_Work) 🔥 : 디퓨전 모델
+- [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥 : Vector Database에서 query와 관련성 높은 문서를 찾아 LLM으로 답변 생성하기
 
 
