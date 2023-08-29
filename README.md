@@ -23,6 +23,7 @@ Course list by August, 2023.
 - [W&B] [Evaluating and Debugging Generative AI](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Evaluating_and_Debugging_Generative_AI) 🔥🔥
 - [Lamini] [How Diffusion Models Work](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/How_Diffusion_Models_Work) 🔥
 - [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥
+- [Lamini] [Finetuning Large Language Models](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Finetuning_Large_Language_Models) 🔥🔥
 
 ---
 
