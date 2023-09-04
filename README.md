@@ -14,7 +14,7 @@ Intrinsically, this repository was created for myself and someone who wanted to 
 Feel free to use it and fill you with useful skills related to Generative AI 🔥
 
 
-Course list by August, 2023.
+Course list by September, 2023.
 - [OpenAI] [ChatGPT Prompt Engineering for Developers](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/ChatGPT_Prompt_Engineering_for_Developers) 🔥
 - [OpenAI] [Building Systems with the ChatGPT API](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Systems_with_the_ChatGPT_API) 🔥
 - [LangChain] [LangChain for LLM Application Development](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/LangChain_for_LLM_Application_Development) 🔥
@@ -39,7 +39,7 @@ Course list by August, 2023.
 이 저장소는 한글로 번역된 강의 자료를 포함합니다.  
 원하는대로 이용하시고 생성형 AI와 관련된 유용한 기술을 배워 가시길 바랍니다!🔥  
 
-2023년 8월 기준 공개된 강의 목록과 난이도는 다음과 같습니다.
+2023년 9월 기준 공개된 강의 목록과 난이도는 다음과 같습니다.
 - [OpenAI] [ChatGPT Prompt Engineering for Developers](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/ChatGPT_Prompt_Engineering_for_Developers) 🔥 : 프롬프트 엔지니어링
 - [OpenAI] [Building Systems with the ChatGPT API](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Systems_with_the_ChatGPT_API) 🔥 : ChatGPT API 활용하기
 - [LangChain] [LangChain for LLM Application Development](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/LangChain_for_LLM_Application_Development) 🔥 : LangChain 이용하여 LLM 어플리케이션 만들기
@@ -48,5 +48,6 @@ Course list by August, 2023.
 - [W&B] [Evaluating and Debugging Generative AI](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Evaluating_and_Debugging_Generative_AI) 🔥🔥 : 생성형 모델 평가 및 디버깅
 - [Lamini] [How Diffusion Models Work](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/How_Diffusion_Models_Work) 🔥 : 디퓨전 모델
 - [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥 : Vector Database에서 query와 관련성 높은 문서를 찾아 LLM으로 답변 생성하기
+- [Lamini] [Finetuning Large Language Models](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Finetuning_Large_Language_Models) : Lamini 라이브러리를 이용하여 LLM 쉽게 학습 및 활용하기 🔥🔥
 
 
