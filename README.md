@@ -44,7 +44,7 @@ Course list by November, 2023. (Not All INCLUSIVE!)
 - [OpenAI] [ChatGPT Prompt Engineering for Developers](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/ChatGPT_Prompt_Engineering_for_Developers) 🔥 : 프롬프트 엔지니어링
 - [OpenAI] [Building Systems with the ChatGPT API](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Systems_with_the_ChatGPT_API) 🔥 : ChatGPT API 활용하기
 - [LangChain] [LangChain for LLM Application Development](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/LangChain_for_LLM_Application_Development) 🔥 : LangChain 이용하여 LLM 어플리케이션 만들기
-- [Langchain] [LangChain: Chat with Your Data](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/LangChain_Chat_with_Your_Data) 🔥 : 개인 데이터 기반 챗봇 만들기
+- [LangChain] [LangChain: Chat with Your Data](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/LangChain_Chat_with_Your_Data) 🔥 : 개인 데이터 기반 챗봇 만들기
 - [LangChain] [Functions, Tools and Agents with LangChain](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Function_Tools_and_Agents_with_LangChain) 🔥🔥 : API의 functions, tools, agents 기능을 LangChain으로 활용하기
 - [Gradio] [Building Generative AI Applications with Gradio](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Building_Generative_AI_Applications_with_Gradio) 🔥 : Gradio로 생성형 모델 어플리케이션 만들기
 - [W&B] [Evaluating and Debugging Generative AI](https://github.com/chanmuzi/DeepLearng.AI-Courses/tree/main/Evaluating_and_Debugging_Generative_AI) 🔥🔥 : 생성형 모델 평가 및 디버깅
