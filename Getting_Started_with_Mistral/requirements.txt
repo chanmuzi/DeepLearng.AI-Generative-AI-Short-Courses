@@ -1,0 +1,15 @@
+# requirements file
+# note which revision of python, for example 3.9.6
+# in this file, insert all the pip install needs, include revision
+
+python-dotenv==1.0.1
+mistralai==0.1.6
+pandas==2.2.1
+faiss-cpu==1.8.0
+langchain==0.1.12
+langchain-mistralai==0.0.5
+llama-index==0.10.19
+llama-index-embeddings-mistralai==0.1.4
+llama-index-llms-mistralai==0.1.6
+mistral-haystack==0.0.1
+panel==1.4.0
