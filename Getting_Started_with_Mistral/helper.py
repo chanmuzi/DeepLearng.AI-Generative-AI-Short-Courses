@@ -5,9 +5,9 @@ from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
 
 
-
-api_key = "여기에 본인의 MistralAI API Key를 입력해야 합니다."
-dlai_endpoint = None
+# 본인의 api key로 교체하길 권장합니다! 사용량에 제한이 있고 언제 막힐지 모르는 key입니다.
+api_key = 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHAiLCJzdWIiOiIxMTE5OSIsImF1ZCI6IldFQiIsImlhdCI6MTcxMzgzNzE1NCwiZXhwIjoxNzE2NDI5MTU0fQ.0YuKJ7WM6XHgWsqEt8AS7cH3b6QQQOriDjDXl4T-jXk'
+dlai_endpoint = 'http://jupyter-api-proxy.internal.dlai/rev-proxy/mistral_ai'
 client = None
 
 def load_env():
@@ -17,8 +17,10 @@ def load_mistral_api_key(ret_key=False):
     load_env()
     global api_key
     global dlai_endpoint
-    api_key = os.getenv("MISTRAL_API_KEY")
-    dlai_endpoint = os.getenv("DLAI_MISTRAL_API_ENDPOINT")
+    # api_key = os.getenv("MISTRAL_API_KEY")
+    api_key = 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHAiLCJzdWIiOiIxMTE5OSIsImF1ZCI6IldFQiIsImlhdCI6MTcxMzgzNzE1NCwiZXhwIjoxNzE2NDI5MTU0fQ.0YuKJ7WM6XHgWsqEt8AS7cH3b6QQQOriDjDXl4T-jXk'
+    # dlai_endpoint = os.getenv("DLAI_MISTRAL_API_ENDPOINT")
+    dlai_endpoint = 'http://jupyter-api-proxy.internal.dlai/rev-proxy/mistral_ai'
 
     global client
     client = MistralClient(api_key=api_key, endpoint=dlai_endpoint)
