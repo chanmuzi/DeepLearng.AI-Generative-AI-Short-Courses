@@ -6,7 +6,7 @@ from mistralai.models.chat_completion import ChatMessage
 
 
 
-api_key = None
+api_key = "여기에 본인의 MistralAI API Key를 입력해야 합니다."
 dlai_endpoint = None
 client = None
 
