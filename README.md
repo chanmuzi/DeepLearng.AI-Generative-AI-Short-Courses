@@ -26,6 +26,7 @@ Course list by November, 2023. (Not All INCLUSIVE!)
 - [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥
 - [Lamini] [Finetuning Large Language Models](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Finetuning_Large_Language_Models) 🔥🔥
 - [HuggingFace] [Quantization Fundamentals](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Quantization_Fundamentals_with_Hugging_Face) 🔥
+- [Mistral] [Getting Started with Mistral](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Getting_Started_with_Mistral) 🔥
 
 ---
 
@@ -53,6 +54,6 @@ Course list by November, 2023. (Not All INCLUSIVE!)
 - [Cohere] [Large Language Models with Semantic Search](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Large_Language_Models_with_Semantic_Search) 🔥 : Vector Database에서 query와 관련성 높은 문서를 찾아 LLM으로 답변 생성하기
 - [Lamini] [Finetuning Large Language Models](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Finetuning_Large_Language_Models) : Lamini 라이브러리를 이용하여 LLM 쉽게 학습 및 활용하기 🔥🔥
 - [HuggingFace] [Quantization Fundamentals](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Quantization_Fundamentals_with_Hugging_Face) : 허깅페이스의 transformers, quanto 라이브러리를 이용한 간편한 양자화 배워보기 🔥
-
+- [Mistral] [Getting Started with Mistral](https://github.com/chanmuzi/DeepLearng.AI-Generative-AI-Short-Courses/tree/main/Getting_Started_with_Mistral) : Mistral 모델 활용 방법 🔥
 
 
